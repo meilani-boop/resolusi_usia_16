@@ -1,0 +1,3 @@
+-Arduino
+-Buat boneka yang bisa stopmotion
+-b inggris
