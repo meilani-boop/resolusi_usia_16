@@ -1,18 +1,18 @@
--Buat masakan yang enak
--Sixpack
--Dapat setidaknya satu medali di pbsi
--Expert c#
--Expert animasi
--Meminalisir kebohongan
--Dapat setidaknya membuat aplikasi yang rumit ataupun terniat
--Dapat membuat origami figure, walaupun sederhana
--Lebih memperbanyak waktu untuk keluarga
--berhasil menamatkan 15 buku atau lebih yang di sukai
--Menjahit
--Membuat perabotan dengan kayu
--Tidak memikirkan tentang uang
+- Buat masakan enak
+- Sixpack
+- Dapat setidaknya satu medali dari pbsi
+- Expert c#
+- Membuat aplikasi yang rumit atau terniat
+- Belajar c++ untuk arduino
+- Membuat proyek arduino
+- Expert animasi / sakuga style
+- Lebih memperbanyak waktu untuk keluarga
+- Berhasil menamatkan 10 buku 
+- Melukis di belakang rumah 
+- Masuk tv karena karya (opsional)
+
 
 Tujuan:
 -animator freelancer
--software engineer
+-software engineer 
 
