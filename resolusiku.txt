@@ -1,6 +1,6 @@
 - Buat masakan enak
 - Sixpack
-- Dapat setidaknya satu medali dari pbsi
+- Dapat satu medali dari pbsi
 - Expert c#
 - Membuat aplikasi yang rumit atau terniat
 - Belajar c++ untuk arduino
@@ -9,10 +9,16 @@
 - Lebih memperbanyak waktu untuk keluarga
 - Berhasil menamatkan 10 buku 
 - Melukis di belakang rumah 
-- Masuk tv karena karya (opsional)
+- Masuk tv karena karya
 
 
 Tujuan:
 -animator freelancer
 -software engineer 
+
+Bulan 12-2023
+-Dalemin c#
+-Buat proyek dari Winform
+-kejar deadline collab srpd
+
 
